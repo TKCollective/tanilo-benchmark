@@ -1,4 +1,4 @@
-# AgentOracle Benchmark — Cross-Operator Verification Suite
+# Tanilo Benchmark — Cross-Operator Verification Suite (formerly AgentOracle Benchmark)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![Methodology v0.1](https://img.shields.io/badge/methodology-v0.1-1f6feb)](./methodology/v0.1.md)
